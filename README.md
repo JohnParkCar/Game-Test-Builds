@@ -1,7 +1,7 @@
 # Game-Test-Builds
  Da Game I be working on n' stuff.
  TO DO:
- - Jumping instead of Flying
+ - Improve Jumping to work properly (Currently acts like instant transmission from DBZ)
  - Extend the Level for quite a distance
  - Add Sprites and obstacles
  - Make it Based
