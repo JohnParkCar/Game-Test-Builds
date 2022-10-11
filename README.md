@@ -2,6 +2,6 @@
  Da Game I be working on n' stuff.
  TO DO:
  - Extend the Level for quite a distance
- - Add Sprites and obstacles
+ - Finalize Sprites
+ - Implement Challenge to the game
  - Add Secrets
- - Give project a name
