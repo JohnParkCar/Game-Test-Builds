@@ -1,7 +1,7 @@
-# Game-Test-Builds
- Da Game I be working on n' stuff.
+# Johmetry
+ The 2D Platformer for my CS4 class that will win Game Of The Year 2022
  TO DO:
  - Extend the Level for quite a distance
- - Add Sprites and obstacles
+ - Finalize Sprites
+ - Implement Challenge to the game
  - Add Secrets
- - Give project a name
